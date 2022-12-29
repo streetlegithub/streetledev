@@ -5,3 +5,7 @@ body {
 h1 {
   color: FF10F0;
 }
+
+section { 
+  display: block;
+}

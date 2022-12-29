@@ -1,11 +1,17 @@
 body {
   background-image: linear-gradient(#f068f2, #d773d9, #b19cd9, #f068f2);
 }
-
 h1 {
   color: FF10F0;
 }
-
 section { 
   display: block;
+}
+#buttons {
+  height:300px;
+  background-color:#808080;
+}
+#buttons span {
+  background:lightblue;
+  display:block;
 }

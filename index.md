@@ -1,10 +1,12 @@
-Index
-<div id="navbar">
-        <ul> 
-            <li><a href="">Buy</a></li>
-            <li><a href="">Lookbook</a></li>
-            <li><a href="">About</a></li>
-            <li><a href="">Contact</a></li>
+<!DOCTYPE html>
+<html>
+<head>
+<title>streetle</title>
+</head>
+<body>
 
-        </ul>
-</div>
+<h1>streetle</h1>
+<p>streetles website</p>
+
+</body>
+</html>

@@ -13,4 +13,5 @@ section {
 #buttons span {
   background:dimgrey;
   display:block;
+  text-align: center;
 }

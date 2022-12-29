@@ -9,9 +9,8 @@ section {
 }
 #buttons {
   height:300px;
-  background-color:#808080;
 }
 #buttons span {
-  background:lightblue;
+  background:dimgrey;
   display:block;
 }

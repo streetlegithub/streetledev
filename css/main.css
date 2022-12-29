@@ -13,5 +13,6 @@ section {
 #buttons span {
   background:dimgrey;
   display:block;
+  border-radius: 25px;
   text-align: center;
 }

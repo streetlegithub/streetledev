@@ -19,3 +19,16 @@ section {
   border-radius: 25px;
   opacity: 0.6;
 }
+.header {
+  padding: 25px;
+  text-align: center;
+  background: #b19cd9;
+  color: white;
+  font-size: 15px;
+}
+footer {
+  text-align: center;
+  padding: 3px;
+  background-color: black;
+  color: white;
+}

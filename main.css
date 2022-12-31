@@ -1,0 +1,10 @@
+/* apply pastel magenta theme to header */
+header {
+  background-color: #F49AC2;
+  color: #ffffff;
+}
+
+/* apply comic sans font to header text */
+header h1, header h2, header h3, header h4, header h5, header h6 {
+  font-family: "Comic Sans MS", sans-serif;
+}

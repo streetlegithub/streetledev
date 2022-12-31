@@ -6,5 +6,5 @@ header {
 
 /* apply comic sans font to header text */
 header h1, header h2, header h3, header h4, header h5, header h6 {
-  font-family: "Comic Sans MS", sans-serif;
+  font-family: 'Helvetica Neue', Arial, sans-serif;
 }

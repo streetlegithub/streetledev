@@ -29,3 +29,9 @@ h1 {
   text-transform: uppercase;
   color: #C3B1E1;
 }
+.tagline {
+  font-size: 18px;
+  font-style: italic;
+  color: #666;
+  text-align: center;
+}
